@@ -16,7 +16,7 @@ javascript version See [NPM](https://www.npmjs.com/package/simple-api-sign).
 ## Install
 
 ```
-composer install simple-api-sign
+composer require pebm/simple-api-sign
 ```
 
 ## Usage
