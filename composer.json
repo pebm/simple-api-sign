@@ -1,0 +1,19 @@
+{
+    "name": "pebm/simple-api-sign",
+    "description": "Simple API sign is a simple implementation of API signature",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "SimpleApiSign\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "pebm",
+            "email": "gaowan_peng@126.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
